@@ -1,0 +1,185 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: lightblue;
+}
+.header{
+    text-align: center;
+    margin: 10px;
+    padding: 0px;
+}
+.F{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.section{
+    margin: 0px 350px;
+    padding: 20px 20px;
+   display: flex;
+   width: 800px;
+   text-align: center;
+   align-items: flex-end;
+   background-color: white;
+}
+.image1{
+    margin: 50px 10px;
+    padding: 20px; 
+    border: 33%;
+    background-image: url(./Images/Image1.jpg);
+   background-size: cover;
+    color: white;
+    width: 100px;
+   height: 150px;
+}
+.image2{
+    margin: 50px 10px;
+    padding: 20px;  
+    border: 33%;
+    background-image: url(./Images/Image2.jpg);
+    background-size: cover;
+    color: white;
+   width: 100px;
+   height: 150px;
+}
+.image3{
+    margin: 50px 10px;
+    padding: 20px; 
+    border: 33%;
+    background-image: url(./Images/Image3.jpeg);
+    background-size: cover;
+    color: white;
+   width: 100px;
+   height: 150px;
+    
+}
+.image4{
+    margin: 50px 10px;
+    padding: 20px;  
+    border: 33%; 
+    background-image: url(./Images/Image4.jpeg);
+    background-size: cover;
+    color: white;
+   width: 100px;
+   height: 150px;
+}
+.image5{
+    margin: 50px 10px;
+    padding: 20px;  
+    border: 33%;
+    background-image: url(./Images/Image5.jpeg);
+    background-size: cover;
+    color: white;
+   width: 100px;
+   height: 150px;
+}
+.section2{
+    margin: 10px 350px;
+    padding: 0px;
+   display: flex;
+   width: 840px;
+   background-color: white;
+}
+.pic{
+     display: block;
+     margin: 15px;
+     margin-top: -60px;
+     margin-left: 80px;
+     padding: 5px;
+     width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    text-decoration-style: dotted;
+}
+.search{
+    margin: -60px;
+    padding: 10px;
+    margin-left: -90px;
+    width: 400px;
+}
+.live{
+    margin: -5px;
+    padding: 10px;
+    margin-left: -450px;
+}
+.P{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 50px
+}
+.F{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 50px
+}
+.section3{
+    margin: 10px 350px;
+    padding: 0px;
+   
+   width: 840px;
+   background-color: white;
+}
+.pro{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 80px
+}
+.cris{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.section4{
+    margin: 10px 350px;
+    padding: 0px;
+   display: flex;
+   width: 840px;
+   background-color: white;
+}
+.like1{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 150px;
+}
+.comm1{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 150px;
+}
+.share1{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 130px;
+}
+.section5{
+    margin: 10px 350px;
+    padding: 0px;
+   width: 840px;
+   background-color: white;
+}
+.hamza{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 80px
+}
+.hamza2{
+    margin: -5px;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.section6{
+    margin: 10px 350px;
+    padding: 0px;
+   display: flex;
+   width: 840px;
+   background-color: white;
+}
+.section7{
+    margin: 10px 350px;
+    padding: 0px;
+   width: 840px;
+   background-color: white;
+}
+
